@@ -15,4 +15,12 @@
     .nav-logo h2{
         font-size: 2rem;
     }
+    .banner-container {
+        padding: 15px 40px;
+        margin: 0 auto;
+    }
+    .banner-title {
+        font-size: 2rem;
+        font-weight: 700;
+    }
 }
