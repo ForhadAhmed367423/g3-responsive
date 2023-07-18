@@ -3,24 +3,44 @@
         flex-direction: column;
         align-items: center;
     }
+
     .nav-items {
         flex-direction: column;
     }
-    .nav-items li{
+
+    .nav-items li {
         margin-bottom: 10px;
     }
-    .nav-items{
+
+    .nav-items {
         margin-top: 10px;
     }
-    .nav-logo h2{
+
+    .nav-logo h2 {
         font-size: 2rem;
     }
+
     .banner-container {
         padding: 15px 40px;
         margin: 0 auto;
     }
+
     .banner-title {
         font-size: 2rem;
         font-weight: 700;
+    }
+
+    .features-container {
+        flex-direction: column;
+    }
+
+    .features-right {
+        grid-template-columns: 1fr;
+    }
+
+    .features-left {
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 20px;
     }
 }
