@@ -43,4 +43,23 @@
         padding-right: 20px;
         margin-top: 20px;
     }
+    .ten-container {
+       flex-direction: column;
+    }
+    .ten-left{
+        padding: 20px;
+    }
+    .ten-right{
+        padding: 20px;
+    }
+    .ten-box{
+        margin-bottom: 30px;
+    }
+    .ten-left img{
+        width: 100%;
+    }
+    .tenyear {
+        width: 320px;
+        padding: 35px;
+    }
 }
