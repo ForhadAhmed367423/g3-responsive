@@ -15,7 +15,7 @@
     ;
 }
 
-.nav-logo h2{
+.nav-logo h2 {
     color: var(--dark-01, #131313);
     text-align: center;
     font-size: 2.8rem;
@@ -38,6 +38,45 @@
     font-weight: 500;
     line-height: 1.5rem;
 }
+
 /* nav section end */
+/* banner section starts  */
+.banner-container {
+    padding: 50px 140px;
+    margin: 0 auto;
+}
 
+.banner-container img {
+    width: 100%;
+}
 
+.banner-title {
+    color: var(--dark-01, #131313);
+    text-align: center;
+    font-size: 4rem;
+    font-weight: 700;
+}
+
+.banner-paragraph {
+    color: var(--dark-03, #727272);
+    text-align: center;
+    font-size: .8rem;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.banner-text {
+    text-align: center;
+}
+
+.btn-primary {
+    border-radius: 8px;
+    background: #FF900E;
+    padding: 15px 20px;
+    border: none;
+    margin: 20px 0;
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+}
