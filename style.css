@@ -82,6 +82,10 @@ header {
     font-size: 1rem;
     font-weight: 600;
     cursor: pointer;
+    transition: 1s;
+}
+.btn-primary:hover{
+    background: #727272;
 }
 
 /* header section complete */
