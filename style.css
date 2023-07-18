@@ -85,7 +85,7 @@ header {
     transition: 1s;
 }
 .btn-primary:hover{
-    background: #727272;
+    background-color: #727272;
 }
 
 /* header section complete */
